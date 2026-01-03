@@ -1,0 +1,4 @@
+# 忽略本地配置文件
+Ham_Radio_Log_2026.xlsx
+Ham_Radio_Log_2026.csv
+# ...existing rules...
